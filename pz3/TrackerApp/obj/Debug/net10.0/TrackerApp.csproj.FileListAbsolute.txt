@@ -1,0 +1,16 @@
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\bin\Debug\net10.0\TrackerApp.exe
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\bin\Debug\net10.0\TrackerApp.deps.json
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\bin\Debug\net10.0\TrackerApp.runtimeconfig.json
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\bin\Debug\net10.0\TrackerApp.dll
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\bin\Debug\net10.0\TrackerApp.pdb
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.sourcelink.json
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.dll
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\refint\TrackerApp.dll
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.pdb
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.genruntimeconfig.cache
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\ref\TrackerApp.dll
+C:\Users\Nazar\Desktop\labs\dotnet\pz3\TrackerApp\obj\Debug\net10.0\TrackerApp.csproj.Up2Date
